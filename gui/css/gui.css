@@ -1,0 +1,6 @@
+﻿
+.parameter-list {float:left;list-style:none;margin:5px 5px 0px;padding:0px;}
+.parameter-list .parameter-item {margin:4px 0px;background-color:#cccccc;padding:4px 10px;cursor:pointer;display:block;}
+.parameter-list .parameter-item:hover {background-color:#ff6a00;color:#ffffff;}
+.parameter-template {display:none;margin:5px;border:1px solid #cccccc;padding:4px;}
+.button-back {display:none;padding:4px 10px;margin:4px;border-radius:4px;border:1px sold #cccccc;background-color:#cccccc;cursor:pointer;width:120px;float:right;}

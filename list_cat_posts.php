@@ -32,6 +32,7 @@ load_plugin_textdomain( 'list-category-posts', false, dirname( plugin_basename( 
 include 'include/ListCategoryPostsWidget.php';
 include 'include/options.php';
 require_once 'include/CatListDisplayer.php';
+require_once 'gui/gui-controller.php';
 
 class ListCategoryPosts{
   /**
